@@ -1,0 +1,152 @@
+1.1 CHEMICAL EQUAAL EQUAAL EQUAAL EQUAAL EQUATIONSTIONSTIONSTIONSTIONS
+Activity 1.1 can be described as – when a magnesium ribbon is burnt in
+oxygen, it gets converted to magnesium oxide. This description of a
+chemical reaction in a sentence form is quite long. It can be written in a
+shorter form. The simplest way to do this is to write it in the form of a
+word-equation.
+The word-equation for the above reaction would be –
+Magnesium + Oxygen → Magnesium oxide (1.1)
+(Reactants) (Product)
+The substances that undergo chemical change in the reaction (1.1),
+magnesium and oxygen, are the reactants. The new substance is
+magnesium oxide, formed during the reaction, as a product.
+A word-equation shows change of reactants to products through an
+arrow placed between them. The reactants are written on the left-hand
+side (LHS) with a plus sign (+) between them. Similarly, products are
+written on the right-hand side (RHS) with a plus sign (+) between them.
+The arrowhead points towards the products, and shows the direction of
+the reaction.
+You must have observed that magnesium ribbon burns with a
+dazzling white flame and changes into a white powder. This powder is
+magnesium oxide. It is formed due to the reaction between magnesium
+and oxygen present in the air.Reprint 2026-27
+Chemical Reactions and Equations 3
+1.1.1 Writing a Chemical Equation
+Is there any other shorter way for representing chemical equations?
+Chemical equations can be made more concise and useful if we use
+chemical formulae instead of words. A chemical equation represents a
+chemical reaction. If you recall formulae of magnesium, oxygen and
+magnesium oxide, the above word-equation can be written as –
+Mg + O2 → MgO (1.2)
+Count and compare the number of atoms of each element on the
+LHS and RHS of the arrow. Is the number of atoms of each element the
+same on both the sides? If yes, then the equation is balanced. If not,
+then the equation is unbalanced because the mass is not the same on
+both sides of the equation. Such a chemical equation is a skeletal
+chemical equation for a reaction. Equation (1.2) is a skeletal chemical
+equation for the burning of magnesium in air.
+1.1.2 Balanced Chemical Equations
+Recall the law of conservation of mass that you studied in Class IX; mass
+can neither be created nor destroyed in a chemical reaction. That is, the
+total mass of the elements present in the products of a chemical reaction
+has to be equal to the total mass of the elements present in the reactants.
+In other words, the number of atoms of each element remains the
+same, before and after a chemical reaction. Hence, we need to balance a
+skeletal chemical equation. Is the chemical Eq. (1.2) balanced? Let us
+learn about balancing a chemical equation step by step.
+The word-equation for Activity 1.3 may be represented as –
+Zinc + Sulphuric acid → Zinc sulphate + Hydrogen
+The above word-equation may be represented by the following
+chemical equation –
+Zn + H2SO4 → ZnSO4 + H2 (1.3)
+Let us examine the number of atoms of different elements on both
+sides of the arrow.
+Element Number of atoms in Number of atoms
+reactants (LHS) in products (RHS)
+Zn 1 1
+H 2 2
+S 1 1
+O 4 4
+As the number of atoms of each element is the same on both sides of
+the arrow, Eq. (1.3) is a balanced chemical equation.
+Let us try to balance the following chemical equation –
+Fe + H2O → Fe3O4 + H2 (1.4)Reprint 2026-27
+Science4
+Step I: To balance a chemical equation, first draw boxes around each
+formula. Do not change anything inside the boxes while balancing the
+equation.
+Fe + H2O → Fe3O4 + H2 (1.5)
+Step II: List the number of atoms of different elements present in the
+unbalanced equation (1.5).
+Element Number of atoms Number of atoms
+in reactants (LHS) in products (RHS)
+Fe 1 3
+H 2 2
+O 1 4
+To equalise the number of atoms, it must be remembered that we
+cannot alter the formulae of the compounds or elements involved in the
+reactions. For example, to balance oxygen atoms we can put coefficient
+‘4’ as 4 H2O and not H2O4 or (H2O)4. Now the partly balanced equation
+becomes –
+Fe + 4 H2O → Fe3O4 + H2
+Step IV: Fe and H atoms are still not balanced. Pick any of these elements
+to proceed further. Let us balance hydrogen atoms in the partly balanced
+equation.
+To equalise the number of H atoms, make the number of molecules
+of hydrogen as four on the RHS.
+Step III: It is often convenient to start balancing with the compound
+that contains the maximum number of atoms. It may be a reactant or a
+product. In that compound, select the element which has the maximum
+number of atoms. Using these criteria, we select Fe3O4 and the element
+oxygen in it. There are four oxygen atoms on the RHS and only one on
+the LHS.
+To balance the oxygen atoms –
+The equation would be –
+Fe + 4 H2O → Fe3O4 + 4 H2
+Atoms of In reactants In products
+oxygen
+(i) Initial 1 (in H2O) 4 (in Fe3O4)
+(ii) To balance 1×4 4
+Atoms of In reactants In products
+hydrogen
+(i) Initial 8 (in 4 H2O) 2 (in H2)
+(ii) To balance 8 2 × 4
+(1.6)
+(partly balanced equation)
+(1.7)
+(partly balanced equation)Reprint 2026-27
+Chemical Reactions and Equations 5
+To equalise Fe, we take three atoms of Fe on the LHS.
+3 Fe + 4 H2O → Fe3O4 + 4 H2 (1.8)
+Step VI: Finally, to check the correctness of the balanced equation, we
+count atoms of each element on both sides of the equation.
+3Fe + 4H2O → Fe3O4 + 4H2
+The numbers of atoms of elements on both sides of Eq. (1.9) are
+equal. This equation is now balanced. This method of balancing chemical
+equations is called hit-and-trial method as we make trials to balance
+the equation by using the smallest whole number coefficient.
+Step VII: Writing Symbols of Physical StatesWriting Symbols of Physical StatesWriting Symbols of Physical StatesWriting Symbols of Physical StatesWriting Symbols of Physical States Carefully examine
+the above balanced Eq. (1.9). Does this equation tell us anything about
+the physical state of each reactant and product? No information has
+been given in this equation about their physical states.
+To make a chemical equation more informative, the physical states
+of the reactants and products are mentioned along with their chemical
+formulae. The gaseous, liquid, aqueous and solid states of reactants
+and products are represented by the notations (g), (l), (aq) and (s),
+respectively. The word aqueous (aq) is written if the reactant or product
+is present as a solution in water.
+The balanced Eq. (1.9) becomes
+3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g) (1.10)
+Note that the symbol (g) is used with H2O to indicate that in this
+reaction water is used in the form of steam.
+Usually physical states are not included in a chemical equation unless
+it is necessary to specify them.
+Sometimes the reaction conditions, such as temperature, pressure,
+catalyst, etc., for the reaction are indicated above and/or below the arrow
+in the equation. For example –
+CO(g) + 2H (g)2
+340 atm CH OH(l)3 → (1.11)
+6CO (aq) 12H O(l) C H O (aq) 6O2 2 6 12 6+ +
+Sunlight
+Chlorophyll → 22 2(aq) 6H O(l)+ (1.12)
+(Glucose)
+Using these steps, can you balance Eq. (1.2) given in the text earlier?
+Step V: Examine the above equation and pick up the third element
+which is not balanced. You find that only one element is left to be
+balanced, that is, iron.
+Atoms of In reactants In products
+iron
+(i) Initial 1 (in Fe) 3 (in Fe3O4)
+(ii) To balance 1×3 3
+(1.9)
+(balanced equation)Reprint 2026-2

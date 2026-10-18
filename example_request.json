@@ -1,0 +1,54 @@
+{
+    "subject": "Science",
+    "subject_category": "science",
+    "grade": "10",
+    "board": "CBSE",
+    "topic": "Chemical Reactions and Equations: writing and balancing equations",
+    "lesson_date": "2026-10-18",
+    "language": "en",
+    "student_level": "average",
+    "duration_minutes": 30,
+    "difficulty_mix": {
+        "easy": 30,
+        "medium": 50,
+        "hard": 20
+    },
+    "selected_types": [
+        {
+            "type": "mcq_single",
+            "count": 3
+        },
+        {
+            "type": "true_false",
+            "count": 2
+        },
+        {
+            "type": "fill_blank",
+            "count": 2
+        },
+        {
+            "type": "match_following",
+            "count": 1
+        },
+        {
+            "type": "assertion_reason",
+            "count": 1
+        },
+        {
+            "type": "order_steps",
+            "count": 1
+        },
+        {
+            "type": "identify_error",
+            "count": 1
+        },
+        {
+            "type": "case_based",
+            "count": 1
+        },
+        {
+            "type": "drag_drop_classify",
+            "count": 1
+        }
+    ]
+}
