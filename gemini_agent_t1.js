@@ -11,7 +11,7 @@ const { GoogleGenAI } = require('@google/genai');
 const { generatePrompts, validatePaper, buildRetryPrompt } = require('./prompt_builder_t1');
 
 const MODEL = process.env.GEMINI_MODEL || 'gemini-3.8-flash';
-const ai = new GoogleGenAI({}); // picks up the API key from the environment
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY }); // picks up the API key from the environment
 
 async function callModel({ systemPrompt, contents, responseSchema }) {
     const response = await ai.models.generateContent({
